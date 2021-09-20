@@ -3,7 +3,7 @@ apiVersion: v1
 metadata:
   name: example-secret
   annotations:
-    avp.kubernetes.io/path: "kv/data/derp"
+    avp.kubernetes.io/path: "kv/data/derp/aroo/wedabest"
 type: Opaque
 data:
   password: <some>
